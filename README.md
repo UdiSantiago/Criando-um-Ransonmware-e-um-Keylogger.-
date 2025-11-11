@@ -4,7 +4,7 @@ CONSIDERAÇÕES INICIAIS:
 Este código tem como objetivo de uso restrito para estudos, não sendo permitido nem aconselhável o seu uso em máquinas de terceiros
 como forma de chantagens ou extorsões, sendo que os mesmos são crimes previstos em lei.
 
-DEFINIÇÕES DE RANMSOWARE. 
+DEFINIÇÕES DE RANSOMWARE. 
 
 O ransomware é um tipo de ataque em que os cibercriminosos sequestram os dados da vítima, criptografando-os e exigindo um resgate para restaurar o acesso.
 
