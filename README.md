@@ -1,4 +1,4 @@
-# Criando-um-Ransommware e Keylogger
+# Criando-um-Ransomware e Keylogger
 **CONSIDERAÇÕES INICIAIS:**
 
 Este código tem como objetivo de uso restrito para estudos, não sendo permitido nem aconselhável o seu uso em máquinas de terceiros
